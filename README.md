@@ -1,2 +1,2 @@
-# reporting
+# Severity control
 mirafra
